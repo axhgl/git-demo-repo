@@ -1,4 +1,4 @@
-#bin!
+#!/bin/bash
 echo "create dir and cd into it"
 mkdir palidhje
 cd palidhje
