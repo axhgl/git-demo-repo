@@ -1,4 +1,4 @@
-## Git demo repo 
+# Git demo repo 
 
 # New change
 >> Some content
