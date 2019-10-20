@@ -1,5 +1,5 @@
 # Git demo repo 
 
-# New change
+## New change
 >> Some content
 
